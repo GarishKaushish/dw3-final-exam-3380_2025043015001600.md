@@ -13,27 +13,28 @@
    a) .ph  
    b) .html  
    **c) .php** 
+
    d) .script  
 
-2. What does `$_FILES` represent in PHP?  
+3. What does `$_FILES` represent in PHP?  
    a) An array of sessions  
    b) An array of connections  
    **c) An array containing uploaded file data** 
    d) A constant array  
 
-3. What does `include 'file.php';` do?  
+4. What does `include 'file.php';` do?  
    a) Runs a SQL query  
    **b) Inserts the contents of another PHP file**   
    c) Starts a session  
    d) Creates a new cookie  
 
-4. Which function converts special characters to HTML entities?  
+5. Which function converts special characters to HTML entities?  
    **a) htmlentities()** 
    b) strip_tags()  
    c) htmlspecialchars()
    d) encode()  
 
-5. Which function checks if a variable is empty?  
+6. Which function checks if a variable is empty?  
    **a) empty()** 
    b) isset()  
    c) is_null()  
